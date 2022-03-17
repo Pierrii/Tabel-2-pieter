@@ -1,0 +1,75 @@
+body {
+    background-image: url("shutterstock_1583852905-1920x1080.jpeg");
+    font-family: sans-serif;
+}
+
+table {
+    background-color: rgb(48, 48, 48)
+    
+}
+tr {
+    background-color: rgb(0, 0, 0)
+}
+
+
+.Maandag {
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
+
+.Dinsdag {
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
+
+.Woensdag {
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
+
+.Donderdag {
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
+
+.Vrijdag {
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
+
+
+.tabel {
+    color: rgb(255, 255, 255);
+    margin-left: 250px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+
+
+
+  .submit {
+    margin-left: 815px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .button {
+    background-color: #000000; 
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+#textboxid
+{
+    height:50px;
+    font-size:10pt;
+}
+
